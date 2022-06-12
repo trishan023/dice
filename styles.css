@@ -7,7 +7,14 @@
 .dice {
   text-align: center;
   display: inline-block;
+}
 
+.instructions {
+  color: #fff;
+  text-align: center;
+  margin: auto;
+  font-family: 'Indie Flower';
+  padding: 50px;
 }
 
 body {
